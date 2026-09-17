@@ -11,4 +11,4 @@ This page presents a compilation of network topology projects that demonstrate c
 - Cross-over cable as a connection between routers
 - Straight calble as a connetion between switch, pc, and router
 
-View Project Detail (
+[View Full Project](https://efficacious-duck-a8a.notion.site/Build-Networking-OSPF-in-Cisco-380b3a36addf8002a550f68ff81ea880) 
